@@ -1,6 +1,2 @@
 Testing file2
 Added new line
-Check something
-Test something
-Easy fix
-Lets wait
