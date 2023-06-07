@@ -1,4 +1,5 @@
 Testing file2
+Added new line
 Check something
 Test something odd
 Easy fixes
